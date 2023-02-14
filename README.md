@@ -2,8 +2,8 @@
 
 A ReactJs app to create notes and handle them.
 The original idea is from a video on Youtube and it had the following features:
--add note.
--delete note.
+- add note.
+- delete note.
 
 Then i added my own features:
 - add a Title to the note.
